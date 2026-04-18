@@ -20,6 +20,7 @@ We use document.createElement() and appendChild().
 
 ### 3. Event Bubbling
 Event moves from child to parent.
+
 ### 4. Event Delegation
 Using parent event listener to handle child elements.
 
